@@ -34,7 +34,7 @@ In order to compile
 1. Launch AutoHotkey Dash
 2. Click compile
 3. Download the SpotifyDialControl.ahk
-3. Look fore Source (script file) then on the same line click browse and select the newly downloaded file.
+3. Look for "Source (script file)" then on the same line click browse and select the newly downloaded file.
 5. Then at the bottom right of the window click convert
 6. Now add the compiled .exe file to C:\Tools\SpotifyVolumeControl
 
