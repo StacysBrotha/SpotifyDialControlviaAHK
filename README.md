@@ -1,4 +1,4 @@
-🎵 Spotify Volume Knob Controller (AHK v2)
+🎵 Spotify Volume Knob Controller (AHK v2) https://www.autohotkey.com/v2
 This AutoHotkey v2 script lets you control Spotify’s internal volume (not system volume) by sending Ctrl+Up and Ctrl+Down keystrokes directly to the Spotify window.
 It is designed to be triggered by Razer Synapse macros — for example, using the volume dial on compatible keyboards.
 *************************************************************************************************************************************************************************
@@ -63,6 +63,8 @@ Edit
 Requires AutoHotkey v2 — this will not work in v1 due to syntax differences.
 
 Will only work is Spotify is currently running.
+
+Windows will think that this is a virus(its not 😵) so add an exclution to the file in windows security!
 
 Window focus change is currently visible for reliability.
 A hidden activation method is possible, but may be less consistent. (I also don't know how to do this...)
